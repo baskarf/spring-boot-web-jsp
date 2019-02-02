@@ -1,0 +1,13 @@
+spring.mvc.view.prefix: /WEB-INF/jsp/
+spring.mvc.view.suffix: .jsp
+
+welcome:
+  message: New Orders
+
+delivery:
+  fixedRate: 300000 #10 mins
+  fixedDelay: 60000 # 1 min
+
+spring:
+  application:
+    name: delivery-service

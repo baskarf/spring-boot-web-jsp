@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="30 seconds">
+    <jmxConfigurator />
+    <springProperty scope="context" name="springAppName" source="spring.application.name"/>
+
+    <property name="logFile" value="logs/delivery-service.log"/>
+    <property name="LOG_PATTERN"
+              value="%date{ISO8601} [%thread] %-5level [service=${springAppName:-},traceId=%X{X-B3-TraceId:-},spanId=%X{X-B3-SpanId:-}]  %logger{36} - %msg%n"/>
+
+    <!--  <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern> -->
+
+    <appender name="LogFileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${logFile}</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- daily rollover -->
+            <fileNamePattern>${logFile-}.%d{yyyy-MM-dd}.gz</fileNamePattern>
+            <!-- keep 30 days' worth of history -->
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+            <charset>utf8</charset>
+        </encoder>
+    </appender>
+
+    <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+            <charset>utf8</charset>
+        </encoder>
+    </appender>
+
+    <logger name="com.bitemii.delivery" level="${agent-log-level:-DEBUG}"/>
+
+    <!-- Allo the logging level to be set from the command line with -Droot-level -->
+    <root level="${root-log-level:-INFO}">
+        <!-- Note this is overridden on servers to use file appender instead of stdout -->
+        <appender-ref ref="stdout"/>
+        <appender-ref ref="LogFileAppender"/>
+    </root>
+</configuration>

@@ -1,0 +1,955 @@
+2019-02-01 00:02:35,706 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:07:35,406 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:12:35,983 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:17:35,225 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:22:35,483 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:27:36,031 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:32:35,452 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:37:36,496 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:42:35,829 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:47:35,473 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:52:35,359 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 00:57:35,290 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:02:36,431 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:07:35,303 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:12:36,268 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:17:35,459 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:22:35,872 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:27:36,207 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:32:36,082 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:37:35,401 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:42:37,492 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:48:05,477 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-02-01 01:48:05,479 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Thu Jan 31 22:06:27 CST 2019]; root of context hierarchy
+2019-02-01 01:48:05,522 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2019-02-01 01:48:12,080 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:51:42,280 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 7848 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 01:51:42,285 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 01:51:42,286 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 01:51:42,386 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 01:51:42 CST 2019]; root of context hierarchy
+2019-02-01 01:51:42,681 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 01:51:45,618 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 01:51:45,649 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 01:51:45,650 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 01:51:46,421 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 01:51:46,434 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 01:51:46,434 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4048 ms
+2019-02-01 01:51:46,943 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 01:51:46,945 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 01:51:46,946 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 01:51:46,946 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 01:51:46,948 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 01:51:46,948 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 01:51:48,417 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49dbaaf3, org.springframework.security.web.context.SecurityContextPersistenceFilter@383f1975, org.springframework.security.web.header.HeaderWriterFilter@31cb96e1, org.springframework.security.web.authentication.logout.LogoutFilter@319854f0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4f186450, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1a5f7e7c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@51ec2df1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@73a00e09, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2dbd803f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@22d9c961, org.springframework.security.web.session.SessionManagementFilter@64030b91, org.springframework.security.web.access.ExceptionTranslationFilter@4cafa9aa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@476ec9d0]
+2019-02-01 01:51:48,649 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 01:51:42 CST 2019]; root of context hierarchy
+2019-02-01 01:51:48,768 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getNewOrders]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getNewOrders(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 01:51:48,769 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.welcome(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 01:51:48,770 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getAssignedDeliveryStaff]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getAssignedDeliveryStaff(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 01:51:48,770 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getDeliveryStaffDetails]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getDeliveryStaffDetails(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 01:51:48,777 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-01 01:51:48,778 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-01 01:51:48,851 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 01:51:48,852 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 01:51:48,958 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 01:51:49,514 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-02-01 01:51:49,548 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2019-02-01 01:51:49,559 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-01 01:51:49,578 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8080]
+2019-02-01 01:51:49,617 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-02-01 01:51:49,679 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-02-01 01:51:49,691 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Started SpringBootWebApplication in 8.211 seconds (JVM running for 10.382)
+2019-02-01 01:52:54,558 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 01:54:51,956 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-02-01 01:54:51,957 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-02-01 01:54:52,058 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 101 ms
+2019-02-01 01:57:53,383 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:03:16,523 [my-scheduled-task-pool-2] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:06:01,232 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-02-01 02:06:01,232 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 01:51:42 CST 2019]; root of context hierarchy
+2019-02-01 02:06:01,235 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2019-02-01 02:06:23,207 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 32388 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 02:06:23,210 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 02:06:23,211 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 02:06:23,268 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:06:23 CST 2019]; root of context hierarchy
+2019-02-01 02:06:23,474 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 02:06:25,260 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 02:06:25,273 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 02:06:25,274 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 02:06:25,741 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 02:06:25,747 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 02:06:25,747 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2479 ms
+2019-02-01 02:06:26,029 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 02:06:26,032 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 02:06:26,033 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 02:06:26,033 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 02:06:26,035 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 02:06:26,035 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 02:06:26,662 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49dbaaf3, org.springframework.security.web.context.SecurityContextPersistenceFilter@383f1975, org.springframework.security.web.header.HeaderWriterFilter@31cb96e1, org.springframework.security.web.authentication.logout.LogoutFilter@319854f0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4f186450, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1a5f7e7c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@51ec2df1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@73a00e09, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2dbd803f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@22d9c961, org.springframework.security.web.session.SessionManagementFilter@64030b91, org.springframework.security.web.access.ExceptionTranslationFilter@4cafa9aa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@476ec9d0]
+2019-02-01 02:06:26,790 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:06:23 CST 2019]; root of context hierarchy
+2019-02-01 02:06:26,857 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getNewOrders]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getNewOrders(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:06:26,858 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.welcome(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:06:26,858 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getDeliveryStaffDetails]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getDeliveryStaffDetails(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:06:26,858 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getAssignedDeliveryStaff]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getAssignedDeliveryStaff(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:06:26,862 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-01 02:06:26,862 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-01 02:06:26,906 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:06:26,906 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:06:26,955 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:06:27,183 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-02-01 02:06:27,200 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2019-02-01 02:06:27,206 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-01 02:06:27,214 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8080]
+2019-02-01 02:06:27,240 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-02-01 02:06:27,273 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-02-01 02:06:27,277 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Started SpringBootWebApplication in 4.498 seconds (JVM running for 5.634)
+2019-02-01 02:07:24,340 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-02-01 02:07:24,340 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-02-01 02:07:24,371 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 31 ms
+2019-02-01 02:08:12,406 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:08:39,844 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-02-01 02:08:39,845 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:06:23 CST 2019]; root of context hierarchy
+2019-02-01 02:08:39,847 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2019-02-01 02:09:06,873 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 28220 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 02:09:06,876 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 02:09:06,877 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 02:09:06,931 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:09:06 CST 2019]; root of context hierarchy
+2019-02-01 02:09:07,093 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 02:09:08,706 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 02:09:08,721 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 02:09:08,722 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 02:09:09,120 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 02:09:09,126 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 02:09:09,126 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2196 ms
+2019-02-01 02:09:09,381 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 02:09:09,382 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 02:09:09,383 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 02:09:09,383 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 02:09:09,385 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 02:09:09,385 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 02:09:10,003 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49dbaaf3, org.springframework.security.web.context.SecurityContextPersistenceFilter@383f1975, org.springframework.security.web.header.HeaderWriterFilter@31cb96e1, org.springframework.security.web.authentication.logout.LogoutFilter@319854f0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4f186450, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1a5f7e7c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@51ec2df1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@73a00e09, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2dbd803f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@22d9c961, org.springframework.security.web.session.SessionManagementFilter@64030b91, org.springframework.security.web.access.ExceptionTranslationFilter@4cafa9aa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@476ec9d0]
+2019-02-01 02:09:10,111 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:09:06 CST 2019]; root of context hierarchy
+2019-02-01 02:09:10,176 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.welcome(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:09:10,177 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getNewOrders]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getNewOrders(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:09:10,177 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getAssignedDeliveryStaff]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getAssignedDeliveryStaff(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:09:10,178 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getDeliveryStaffDetails]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getDeliveryStaffDetails(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:09:10,182 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-01 02:09:10,183 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-01 02:09:10,222 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:09:10,222 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:09:10,273 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:09:10,476 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-02-01 02:09:10,492 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2019-02-01 02:09:10,497 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-01 02:09:10,509 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8080]
+2019-02-01 02:09:10,522 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-02-01 02:09:10,552 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-02-01 02:09:10,556 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Started SpringBootWebApplication in 4.183 seconds (JVM running for 5.463)
+2019-02-01 02:09:34,891 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-02-01 02:09:34,892 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:09:06 CST 2019]; root of context hierarchy
+2019-02-01 02:09:34,894 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2019-02-01 02:22:17,924 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 32148 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 02:22:17,927 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 02:22:17,928 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 02:22:18,003 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:22:18 CST 2019]; root of context hierarchy
+2019-02-01 02:22:18,209 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 02:22:19,866 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 02:22:19,882 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 02:22:19,883 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 02:22:20,285 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 02:22:20,293 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 02:22:20,293 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2290 ms
+2019-02-01 02:22:20,571 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 02:22:20,571 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 02:22:20,571 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 02:22:20,572 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 02:22:20,573 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 02:22:20,574 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 02:22:21,215 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49dbaaf3, org.springframework.security.web.context.SecurityContextPersistenceFilter@383f1975, org.springframework.security.web.header.HeaderWriterFilter@31cb96e1, org.springframework.security.web.authentication.logout.LogoutFilter@319854f0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4f186450, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1a5f7e7c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@51ec2df1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@73a00e09, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2dbd803f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@22d9c961, org.springframework.security.web.session.SessionManagementFilter@64030b91, org.springframework.security.web.access.ExceptionTranslationFilter@4cafa9aa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@476ec9d0]
+2019-02-01 02:22:21,323 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:22:18 CST 2019]; root of context hierarchy
+2019-02-01 02:22:21,394 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.welcome(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:22:21,395 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getNewOrders]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getNewOrders(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:22:21,396 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getAssignedDeliveryStaff]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getAssignedDeliveryStaff(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:22:21,396 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getDeliveryStaffDetails]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getDeliveryStaffDetails(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 02:22:21,398 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-01 02:22:21,399 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-01 02:22:21,434 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:22:21,435 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:22:21,480 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 02:22:21,697 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-02-01 02:22:21,716 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2019-02-01 02:22:21,722 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-01 02:22:21,732 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8080]
+2019-02-01 02:22:21,750 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-02-01 02:22:21,781 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-02-01 02:22:21,786 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Started SpringBootWebApplication in 4.344 seconds (JVM running for 5.79)
+2019-02-01 02:23:26,741 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:28:25,525 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:29:39,562 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-02-01 02:29:39,562 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-02-01 02:29:39,597 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 35 ms
+2019-02-01 02:33:25,602 [my-scheduled-task-pool-2] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:38:25,368 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:43:26,331 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:48:25,744 [my-scheduled-task-pool-2] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 02:51:34,876 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-02-01 02:51:34,881 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 02:22:18 CST 2019]; root of context hierarchy
+2019-02-01 02:51:34,920 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2019-02-01 03:00:30,184 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 34712 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 03:00:30,188 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 03:00:30,189 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 03:00:30,267 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 03:00:30 CST 2019]; root of context hierarchy
+2019-02-01 03:00:30,633 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 03:00:33,160 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 03:00:33,177 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 03:00:33,179 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 03:00:33,757 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 03:00:33,765 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 03:00:33,765 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3498 ms
+2019-02-01 03:00:34,053 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 03:00:34,054 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 03:00:34,054 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 03:00:34,054 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 03:00:34,056 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 03:00:34,057 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 03:00:34,834 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49dbaaf3, org.springframework.security.web.context.SecurityContextPersistenceFilter@383f1975, org.springframework.security.web.header.HeaderWriterFilter@31cb96e1, org.springframework.security.web.authentication.logout.LogoutFilter@319854f0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4f186450, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1a5f7e7c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@51ec2df1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@73a00e09, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2dbd803f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@22d9c961, org.springframework.security.web.session.SessionManagementFilter@64030b91, org.springframework.security.web.access.ExceptionTranslationFilter@4cafa9aa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@476ec9d0]
+2019-02-01 03:00:35,023 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 03:00:30 CST 2019]; root of context hierarchy
+2019-02-01 03:00:35,119 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.welcome(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 03:00:35,121 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getNewOrders]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getNewOrders(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 03:00:35,122 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getAssignedDeliveryStaff]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getAssignedDeliveryStaff(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 03:00:35,123 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getDeliveryStaffDetails]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getDeliveryStaffDetails(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 03:00:35,128 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-01 03:00:35,128 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-01 03:00:35,210 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 03:00:35,211 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 03:00:35,307 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 03:00:35,884 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-02-01 03:00:35,915 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2019-02-01 03:00:35,926 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-01 03:00:35,951 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8080]
+2019-02-01 03:00:36,014 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-02-01 03:00:36,135 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-02-01 03:00:36,144 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Started SpringBootWebApplication in 6.596 seconds (JVM running for 7.81)
+2019-02-01 03:01:41,634 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:03:46,186 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-02-01 03:03:46,186 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-02-01 03:03:46,234 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 48 ms
+2019-02-01 03:06:39,718 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:11:39,610 [my-scheduled-task-pool-2] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:16:39,628 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:21:39,625 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:26:39,565 [my-scheduled-task-pool-2] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:31:39,666 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:36:39,898 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:41:39,488 [my-scheduled-task-pool-5] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:46:40,175 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:51:40,233 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 03:56:39,761 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:01:39,440 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:06:40,083 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:11:39,589 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:16:39,724 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:21:40,443 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:26:39,517 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:31:39,618 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:36:39,461 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:41:39,653 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:46:39,629 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:51:39,441 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 04:56:39,638 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:01:39,580 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:06:39,456 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:11:39,522 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:16:39,910 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:21:39,767 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:26:39,620 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:31:39,566 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:36:39,472 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:41:39,530 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:46:39,543 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:51:39,927 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 05:56:39,603 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:01:39,525 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:06:39,552 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:11:39,500 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:16:39,606 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:21:39,463 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:26:39,570 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:31:39,533 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:36:39,496 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:41:55,250 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:46:39,750 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:51:39,425 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 06:56:39,714 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:01:39,764 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:06:39,728 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:11:39,649 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:16:39,769 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:21:39,707 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:26:39,643 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:31:39,636 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:36:39,644 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:41:40,660 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:46:39,465 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:51:40,272 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 07:56:40,820 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:01:39,947 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:06:39,712 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:11:39,941 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:16:56,509 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:21:39,575 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:23:47,436 [http-nio-8080-exec-8] ERROR [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[.[localhost].[/].[jsp] - Servlet.service() for servlet jsp threw exception
+java.lang.ClassNotFoundException: org.apache.jsp.WEB_002dINF.jsp.welcome_jsp
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:127)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:171)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:380)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:116)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:84)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter.doFilter(DefaultLoginPageGeneratingFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:185)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:726)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:469)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:394)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:311)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:168)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:303)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1257)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1037)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:980)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter.doFilter(DefaultLoginPageGeneratingFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:89)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2019-02-01 08:23:47,446 [http-nio-8080-exec-8] ERROR [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [java.lang.ClassNotFoundException: org.apache.jsp.WEB_002dINF.jsp.welcome_jsp] with root cause
+java.lang.ClassNotFoundException: org.apache.jsp.WEB_002dINF.jsp.welcome_jsp
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:129)
+	at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:60)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:127)
+	at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:171)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:380)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:116)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:84)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter.doFilter(DefaultLoginPageGeneratingFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:185)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:726)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:469)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:394)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:311)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:168)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:303)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1257)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1037)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:980)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter.doFilter(DefaultLoginPageGeneratingFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:89)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:108)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:784)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1410)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2019-02-01 08:24:38,549 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-02-01 08:24:38,550 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 03:00:30 CST 2019]; root of context hierarchy
+2019-02-01 08:24:38,552 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2019-02-01 08:35:58,692 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 11040 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 08:35:58,695 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 08:35:58,695 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 08:35:58,764 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 08:35:58 CST 2019]; root of context hierarchy
+2019-02-01 08:35:58,976 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 08:36:00,645 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 08:36:00,658 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 08:36:00,660 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 08:36:01,092 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 08:36:01,100 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 08:36:01,100 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2336 ms
+2019-02-01 08:36:01,366 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 08:36:01,367 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 08:36:01,368 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 08:36:01,369 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 08:36:01,370 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 08:36:01,371 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 08:36:02,052 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49dbaaf3, org.springframework.security.web.context.SecurityContextPersistenceFilter@383f1975, org.springframework.security.web.header.HeaderWriterFilter@31cb96e1, org.springframework.security.web.authentication.logout.LogoutFilter@319854f0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4f186450, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1a5f7e7c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@51ec2df1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@73a00e09, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2dbd803f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@22d9c961, org.springframework.security.web.session.SessionManagementFilter@64030b91, org.springframework.security.web.access.ExceptionTranslationFilter@4cafa9aa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@476ec9d0]
+2019-02-01 08:36:02,174 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 08:35:58 CST 2019]; root of context hierarchy
+2019-02-01 08:36:02,241 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getAssignedDeliveryStaff]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getAssignedDeliveryStaff(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 08:36:02,242 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getDeliveryStaffDetails]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getDeliveryStaffDetails(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 08:36:02,242 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getNewOrders]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getNewOrders(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 08:36:02,243 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.welcome(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 08:36:02,246 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-01 08:36:02,246 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-01 08:36:02,284 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 08:36:02,284 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 08:36:02,341 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 08:36:02,563 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-02-01 08:36:02,581 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2019-02-01 08:36:02,588 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-01 08:36:02,597 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8080]
+2019-02-01 08:36:02,622 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-02-01 08:36:02,653 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-02-01 08:36:02,658 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Started SpringBootWebApplication in 4.47 seconds (JVM running for 5.663)
+2019-02-01 08:37:38,597 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:38:49,006 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-02-01 08:38:49,006 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-02-01 08:38:49,071 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 65 ms
+2019-02-01 08:42:06,550 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:47:06,870 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:52:06,876 [my-scheduled-task-pool-2] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 08:57:06,291 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:02:06,371 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:07:06,212 [my-scheduled-task-pool-4] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:12:06,205 [my-scheduled-task-pool-2] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:17:15,876 [my-scheduled-task-pool-5] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:22:06,431 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:27:06,128 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:32:06,339 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:37:06,284 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:42:06,194 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:47:06,339 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:52:06,239 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 09:57:06,449 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:02:06,274 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:07:06,684 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:12:06,141 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:17:06,500 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:22:07,409 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:27:06,117 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:32:06,331 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:37:06,114 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:42:06,514 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:47:07,526 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:52:06,486 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 10:57:06,419 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:02:06,443 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:07:06,285 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:12:07,948 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:17:07,131 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:22:06,639 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:27:06,221 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:32:06,235 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:37:08,097 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:42:06,182 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:47:06,461 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:52:06,478 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 11:57:06,306 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:02:06,384 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:07:06,180 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:12:06,315 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:17:06,388 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:22:06,397 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:27:06,346 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:32:06,359 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:37:06,136 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:42:06,346 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:47:06,854 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:52:06,206 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 12:57:06,390 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:02:06,504 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:07:07,270 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:12:06,677 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:17:06,424 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:22:06,277 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:27:06,114 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:32:06,792 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:37:06,437 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:42:06,419 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:47:06,439 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:52:07,250 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 13:57:10,720 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:02:06,566 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:07:06,282 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:12:06,451 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:17:07,107 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:22:06,346 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:27:06,344 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:32:06,507 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:37:07,315 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:42:07,883 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:47:08,156 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:52:06,729 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 14:57:06,673 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:02:07,121 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:07:06,097 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:12:06,746 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:17:06,274 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:22:06,467 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:27:06,499 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:32:06,964 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:37:06,334 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:42:06,598 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:47:06,312 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:52:06,345 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 15:57:06,286 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:02:06,392 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:07:06,610 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:12:06,542 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:17:06,576 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:22:06,929 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:27:06,725 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:32:06,406 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:37:06,587 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:42:06,752 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:47:06,354 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:52:06,959 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 16:57:06,481 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:02:06,428 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:07:06,173 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:12:06,480 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:17:06,299 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:22:07,009 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:27:06,842 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:32:06,161 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:37:07,672 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:42:08,012 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:47:06,654 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:52:06,445 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 17:57:06,611 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:02:06,595 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:07:06,489 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:12:06,199 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:17:06,752 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:22:07,265 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:27:06,560 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:32:06,368 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:37:06,394 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 18:42:04,553 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-02-01 18:42:04,559 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 08:35:58 CST 2019]; root of context hierarchy
+2019-02-01 18:42:04,688 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2019-02-01 18:42:06,290 [my-scheduled-task-pool-3] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 19:39:19,164 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 34560 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 19:39:19,170 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 19:39:19,171 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 19:39:19,236 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 19:39:19 CST 2019]; root of context hierarchy
+2019-02-01 19:39:19,446 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 19:39:20,835 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 19:39:20,850 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 19:39:20,852 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 19:39:21,229 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 19:39:21,235 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 19:39:21,236 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2000 ms
+2019-02-01 19:39:21,461 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 19:39:21,462 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 19:39:21,462 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 19:39:21,462 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 19:39:21,463 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 19:39:21,464 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 19:39:21,783 [main] WARN  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'orderUpdateSchedulerService': Unsatisfied dependency expressed through field 'serviceObj'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'deliveryService': Unsatisfied dependency expressed through field 'restaurantDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.bitemii.delivery.dao.RestaurantDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-02-01 19:39:21,785 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Stopping service Tomcat
+2019-02-01 19:39:21,817 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.l.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2019-02-01 19:39:21,951 [main] ERROR [service=delivery-service,traceId=,spanId=]  o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restaurantDao in com.bitemii.delivery.service.DeliveryService required a bean of type 'com.bitemii.delivery.dao.RestaurantDao' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.bitemii.delivery.dao.RestaurantDao' in your configuration.
+
+2019-02-01 19:39:21,951 [main] ERROR [service=delivery-service,traceId=,spanId=]  o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restaurantDao in com.bitemii.delivery.service.DeliveryService required a bean of type 'com.bitemii.delivery.dao.RestaurantDao' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.bitemii.delivery.dao.RestaurantDao' in your configuration.
+
+2019-02-01 19:39:57,280 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 30356 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 19:39:57,283 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 19:39:57,283 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 19:39:57,335 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 19:39:57 CST 2019]; root of context hierarchy
+2019-02-01 19:39:57,512 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 19:39:58,853 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 19:39:58,863 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 19:39:58,865 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 19:39:59,237 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 19:39:59,243 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 19:39:59,243 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1908 ms
+2019-02-01 19:39:59,469 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 19:39:59,470 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 19:39:59,470 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 19:39:59,470 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 19:39:59,471 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 19:39:59,471 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 19:40:13,766 [main] WARN  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'orderUpdateSchedulerService': Unsatisfied dependency expressed through field 'serviceObj'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'deliveryService': Unsatisfied dependency expressed through field 'daoObject'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.bitemii.delivery.dao.MysqlConnect' available: expected single matching bean but found 2: mysqlConnect,restaurantDao
+2019-02-01 19:40:13,770 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Stopping service Tomcat
+2019-02-01 19:40:13,792 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.l.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2019-02-01 19:40:13,801 [main] ERROR [service=delivery-service,traceId=,spanId=]  o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field daoObject in com.bitemii.delivery.service.DeliveryService required a single bean, but 2 were found:
+	- mysqlConnect: defined in file [C:\WORK\JAN-29\spring-boot-web-jsp\target\classes\com\bitemii\delivery\dao\MysqlConnect.class]
+	- restaurantDao: defined in file [C:\WORK\JAN-29\spring-boot-web-jsp\target\classes\com\bitemii\delivery\dao\RestaurantDao.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+2019-02-01 19:40:13,801 [main] ERROR [service=delivery-service,traceId=,spanId=]  o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field daoObject in com.bitemii.delivery.service.DeliveryService required a single bean, but 2 were found:
+	- mysqlConnect: defined in file [C:\WORK\JAN-29\spring-boot-web-jsp\target\classes\com\bitemii\delivery\dao\MysqlConnect.class]
+	- restaurantDao: defined in file [C:\WORK\JAN-29\spring-boot-web-jsp\target\classes\com\bitemii\delivery\dao\RestaurantDao.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+2019-02-01 19:45:01,463 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 36460 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 19:45:01,466 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 19:45:01,467 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 19:45:01,518 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 19:45:01 CST 2019]; root of context hierarchy
+2019-02-01 19:45:01,674 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 19:45:03,023 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 19:45:03,034 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 19:45:03,035 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 19:45:03,387 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 19:45:03,392 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 19:45:03,393 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1875 ms
+2019-02-01 19:45:03,637 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 19:45:03,638 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 19:45:03,638 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 19:45:03,638 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 19:45:03,641 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 19:45:03,641 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 19:45:07,016 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@27a97e08, org.springframework.security.web.context.SecurityContextPersistenceFilter@6b00ad9, org.springframework.security.web.header.HeaderWriterFilter@440eaa07, org.springframework.security.web.authentication.logout.LogoutFilter@73a19967, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@5b84f14, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@240f6c41, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@37ed010a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4f453e63, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@771cbb1a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@77e7246b, org.springframework.security.web.session.SessionManagementFilter@7aa9e414, org.springframework.security.web.access.ExceptionTranslationFilter@390877d2, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@42d73c61]
+2019-02-01 19:45:07,150 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 19:45:01 CST 2019]; root of context hierarchy
+2019-02-01 19:45:07,213 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.welcome(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 19:45:07,214 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getNewOrders]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getNewOrders(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 19:45:07,214 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getAssignedDeliveryStaff]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getAssignedDeliveryStaff(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 19:45:07,215 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getDeliveryStaffDetails]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getDeliveryStaffDetails(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 19:45:07,217 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-01 19:45:07,218 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-01 19:45:07,253 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 19:45:07,254 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 19:45:07,310 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 19:45:07,578 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-02-01 19:45:07,600 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2019-02-01 19:45:07,608 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-01 19:45:07,617 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8080]
+2019-02-01 19:45:07,644 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-02-01 19:45:07,673 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-02-01 19:45:07,678 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Started SpringBootWebApplication in 6.595 seconds (JVM running for 7.668)
+2019-02-01 19:45:56,274 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-02-01 19:45:56,275 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 19:45:01 CST 2019]; root of context hierarchy
+2019-02-01 19:45:56,276 [RMI TCP Connection(2)-127.0.0.1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2019-02-01 20:00:07,881 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Starting SpringBootWebApplication on LAPTOP-7AQIORIF with PID 36412 (C:\WORK\JAN-29\spring-boot-web-jsp\target\classes started by baski in C:\WORK\JAN-29\spring-boot-web-jsp)
+2019-02-01 20:00:07,884 [main] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-02-01 20:00:07,885 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - No active profile set, falling back to default profiles: default
+2019-02-01 20:00:07,934 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 20:00:07 CST 2019]; root of context hierarchy
+2019-02-01 20:00:08,090 [background-preinit] INFO  [service=delivery-service,traceId=,spanId=]  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.2.4.Final
+2019-02-01 20:00:09,476 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-02-01 20:00:09,490 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardService - Starting service Tomcat
+2019-02-01 20:00:09,492 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-02-01 20:00:09,863 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-02-01 20:00:09,870 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-01 20:00:09,870 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1936 ms
+2019-02-01 20:00:10,129 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-01 20:00:10,130 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-01 20:00:10,130 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-02-01 20:00:10,130 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-01 20:00:10,132 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.DelegatingFilterProxyRegistrationBean - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-02-01 20:00:10,133 [localhost-startStop-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-02-01 20:00:10,757 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@73ba6fe6, org.springframework.security.web.context.SecurityContextPersistenceFilter@444548a0, org.springframework.security.web.header.HeaderWriterFilter@383f1975, org.springframework.security.web.authentication.logout.LogoutFilter@4158debd, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@64138b0c, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@529cfee5, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@a64e035, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@773c0293, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@22d1886d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@79ab34c1, org.springframework.security.web.session.SessionManagementFilter@73a00e09, org.springframework.security.web.access.ExceptionTranslationFilter@3eed0f5, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2c16fadb]
+2019-02-01 20:00:10,878 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@45c7e403: startup date [Fri Feb 01 20:00:07 CST 2019]; root of context hierarchy
+2019-02-01 20:00:10,950 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getNewOrders]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getNewOrders(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 20:00:10,952 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.welcome(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 20:00:10,952 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getAssignedDeliveryStaff]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getAssignedDeliveryStaff(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 20:00:10,953 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getDeliveryStaffDetails]}" onto public java.lang.String com.bitemii.delivery.WelcomeController.getDeliveryStaffDetails(java.util.Map<java.lang.String, java.lang.Object>)
+2019-02-01 20:00:10,956 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-02-01 20:00:10,957 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-02-01 20:00:10,998 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 20:00:10,999 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 20:00:11,041 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-02-01 20:00:11,231 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-02-01 20:00:11,248 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2019-02-01 20:00:11,255 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-01 20:00:11,264 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8080]
+2019-02-01 20:00:11,277 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-02-01 20:00:11,305 [main] INFO  [service=delivery-service,traceId=,spanId=]  o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-02-01 20:00:11,310 [main] INFO  [service=delivery-service,traceId=,spanId=]  c.b.d.SpringBootWebApplication - Started SpringBootWebApplication in 3.833 seconds (JVM running for 5.252)
+2019-02-01 20:00:24,653 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-02-01 20:00:24,653 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-02-01 20:00:24,682 [http-nio-8080-exec-1] INFO  [service=delivery-service,traceId=,spanId=]  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 29 ms
+2019-02-01 20:01:15,073 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 20:06:15,071 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 20:11:15,310 [my-scheduled-task-pool-2] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders
+2019-02-01 20:16:16,034 [my-scheduled-task-pool-1] DEBUG [service=delivery-service,traceId=,spanId=]  c.b.d.OrderUpdateSchedulerService - Assign Delivery boy for new Orders

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: bitemii-delivery-support
+Implementation-Version: 1.0
+Built-By: baski
+Implementation-Vendor-Id: com.bitemii.delivery
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/bitemii-deli
+ very-support/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
